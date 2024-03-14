@@ -6,7 +6,7 @@
 
 **Game Title:** Mon Cherie: Bonds Unbroken
 
-**Summary:** In "Mon Chérie: Bonds Unbroken," step into a heartwarming journey alongside Ruby and Bloom, two cherries bound by magic, navigating challenges that test your teamwork and resilience. Together on a single keyboard, you and a partner will sync every move and decision, transforming obstacles into opportunities for emotional growth and deeper connection. As you venture through an enchanted forest, each puzzle solved and hardship faced strengthens your in-game bond and your real-world cooperation. Embark on this adventure, where triumph and unity await at every turn.
+**Summary:** In "Mon Chérie: Bonds Unbroken," step into a heartwarming journey alongside Ruby and Bloom, two cherries bound by their stem, navigating challenges that test your teamwork and resilience. Together on a single keyboard, you and a partner will sync every move and decision, transforming obstacles into opportunities for emotional growth and deeper connection. As you venture through an enchanted forest, each puzzle solved and hardship faced strengthens your in-game bond and your real-world cooperation. Embark on this adventure, where triumph and unity await at every turn.
 
 **Date:** 14.03.2024
 
@@ -17,7 +17,7 @@
 ### 1\. Game Overview
 
 **a. Core Concept**
-Mon Chérie: Bonds Unbroken is a heartwarming 2D local multiplayer platform adventure game, centered on Ruby and Bloom, two cherries connected by a magical chain, navigating through an enchanted forest to find their way back home after being displaced by a storm. The game beautifully weaves emotional storytelling with engaging gameplay, exploring the depth of love, cooperation, and resilience.
+Mon Chérie: Bonds Unbroken is a heartwarming 2D local multiplayer platform adventure game, centered on Ruby and Bloom, two cherries connected by a chain, navigating through an enchanted forest to find their way back home after being displaced by a storm. The game beautifully weaves emotional storytelling with engaging gameplay, exploring the depth of love, cooperation, and resilience.
 
 The Players, much like Ruby and Bloom, are invited into a shared journey where their emotional endurance, cooperation, and problem-solving skills are put to the test. The game transcends traditional gameplay, creating a parallel between the in-game bond of the cherries and the real-life connection between players through the shared keyboard mechanic.
 
