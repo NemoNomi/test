@@ -5,6 +5,7 @@
 **Designer’s Name:** Noemi
 
 **Game Title:** Mon Cherie: Bonds Unbroken
+
 **Summary:** In "Mon Chérie: Bonds Unbroken," step into a heartwarming journey alongside Ruby and Bloom, two cherries bound by magic, navigating challenges that test your teamwork and resilience. Together on a single keyboard, you and a partner will sync every move and decision, transforming obstacles into opportunities for emotional growth and deeper connection. As you venture through an enchanted forest, each puzzle solved and hardship faced strengthens your in-game bond and your real-world cooperation. Embark on this adventure, where triumph and unity await at every turn.
 
 **Date:** 14.03.2024
